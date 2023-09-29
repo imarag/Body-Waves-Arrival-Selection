@@ -1,0 +1,15 @@
+/*
+waveform color: #ffffff
+graph color: #000000
+figure color: #000000
+menubar color: #000000
+line color: #2688ff
+symbol color: #2688ff
+text color: #000000
+*/
+/*-----QWidget-----*/
+*
+{
+
+	font-size: 40px
+}

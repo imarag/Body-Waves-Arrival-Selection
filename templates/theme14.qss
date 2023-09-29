@@ -1,0 +1,35 @@
+/*
+waveform color: #CFFA6A
+graph color: #343362
+figure color: #C91498
+menubar color: #376EB6
+line color: #A651F0
+symbol color: #A651F0
+text color: #FCAB2E
+*/
+QWidget
+{
+	background-color: #376EB6;
+	color: #FCAB2E;
+	selection-background-color: red;
+	font-size: 40px
+	
+}
+
+
+QMenu::item:selected {background-color: rgba(245, 178, 39, 1); color: #2f354a}
+
+QMenuBar::item:selected
+{
+	background-color: #474d61
+
+}
+
+QLineEdit {background-color: #FCAB2E; color: black}
+
+QLineEdit::disabled {background-color: #abdbd7}
+
+QComboBox {selection-background-color: #2f354a;}
+
+
+

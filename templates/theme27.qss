@@ -1,0 +1,43 @@
+/*
+waveform color: #2065fa
+graph color: #ffffff
+figure color: #ffffff
+menubar color: #E8C880
+line color: #757439
+symbol color: #1c1b1a
+text color: #B03B03
+*/
+QWidget
+{
+	background-color: #eef5b5;
+	color: black;
+	selection-background-color: red;
+	font-size: 40px;
+	
+}
+
+
+QCheckBox::hover {background-color: #eafa70; color: #000000}
+QRadioButton:hover {background-color: #eafa70; color: #000000}
+
+QMenu::item:selected {background-color: #eafa70; color: #000000}
+
+QMenuBar::item:selected
+{
+	background-color: #eafa70; color: #000000
+
+}
+
+QToolButton:hover
+{
+	background-color: #eafa70; color: #000000
+
+}
+QLineEdit {background-color: #B03B03; color: black}
+
+QLineEdit::disabled {background-color: #abdbd7}
+
+QComboBox {selection-background-color: #2f354a;}
+
+
+
